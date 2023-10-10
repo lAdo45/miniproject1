@@ -1,0 +1,114 @@
+.node-label {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color:green;
+    text-align: center;
+    color: white;
+}
+
+a{
+    margin-right: 150px;
+    padding-inline: 10px;
+    background-color: rgb(209, 228, 209);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    
+
+ }
+.node-labe2{
+    font-size: 80px;
+    height: 100px;
+    width: 1505px;
+    background-color: rgb(209, 228, 209);
+    color: green;
+    padding-bottom: 15px;
+    
+    
+    
+}
+.node-labe3{
+    height: 800px;
+    width: 1500px;
+    background-size: cover;
+    text-align: right;
+    font-size: 70px;
+    color: black;
+
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/58331d1f914c4f6032a35460be74a5b37c696f06/ae55b/assets/images/map-with-pins-mobile.png") ;
+}
+.box{
+    margin-right: 20px;
+    width: 400px;
+    height: 130px;
+    text-align: center;
+    font-size:large;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
+    cursor: default;
+    
+}
+ .node-labe4{
+    height: 800px;
+    width: 1500px;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/premium-photo/close-up-nature-view-green-leaf-blurred-greenery-background-sunlight-with-bokeh-copy-space-using-as-background-natural-plants-landscape_105035-772.jpg?size=626&ext=jpg&ga=GA1.1.840523023.1690847870&semt=ais");
+   font-size: larger;
+   text-align: right;
+}
+    #two{
+        font-size:xx-large;
+        color: black;
+    }
+    #three{
+        font-size: 80px;
+        color: green;
+    }
+    #four{
+        font-size: 60px;
+        color: black;
+    }
+#five{
+    font-size: xx-large;
+    background-color: green;
+    color: white;
+    text-align: center;
+   
+    
+}
+button{
+    text-align: center;
+}
+#zero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxes1{
+    text-align: left;
+    background-color: rgb(213, 226, 213);
+    color: black;
+    height: 150px;
+    width: 400px;
+    padding: 20px;
+    border: 1px;
+    margin: 10px;
+    border-radius: 50px;
+}
+.boxes2{
+    text-align: left;
+    background-color: rgb(213, 226, 213);
+    color: black;
+height: 150px;
+width: 400px;
+padding: 20px;
+border: 1px;
+margin: 10px;
+border-radius: 50px;
+}
+#six{
+    text-align: right;
+    font-size: 30px;
+    display: inline;
+}
